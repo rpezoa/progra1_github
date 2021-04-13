@@ -16,4 +16,5 @@ int main(){
 
     fact = factorial(num);
     printf("El factorial de %d es: %d", num, fact);
+    printf("Imprimiendo una nueva línea\n");
 }
